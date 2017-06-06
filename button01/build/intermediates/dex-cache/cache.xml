@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\button01\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\button01\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_4dc051281efcdb16034d3a764172ec24777e88c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\button01\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\button01\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_d4616ad4078186987e0095a1bc1cc3003e7ddb04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\button01\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\button01\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_1ac11f9e10d7edd52f2bc45eb755984ca66f8f27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\button01\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\button01\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_e176fec266967aed59cb195d76d97fd2df6b7502.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\button01\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\button01\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_f828623d580632581bdbec845b6d4284b1aefe71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\button01\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\button01\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_bf06d790e193d98aa5449e4cdd93b6a5993ef7e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\button01\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="32016dd0522447004cdfb66abbe5b32b81ed5850">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\button01\app\build\intermediates\pre-dexed\debug\instant-run_870554cf4a1180909c76eccbfaac3e362b4a25a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\button01\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\button01\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_946d9c99b075573a58c58910d290d56e48722d09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\button01\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\button01\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_ef9a46916c77e0bf394837fe6c3220f56657a5ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\button01\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\button01\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_89d17d690e8fccecb1c7720f16160ae4ba9cba42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\button01\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b68efc2073449185e276420682c730931c8fe55e">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\button01\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_fbaa7ff1b8f0c1a0a82f717ae5cb64d22ac7f3e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\button01\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_92b78aa75e18988c5d52248e429ee6fb1d5ad1d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\button01\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\button01\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_dbac36e26866780adf43f769551b01d94f440e8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\button01\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\button01\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_00da05149a3b84cddc45b3801259d196d4ee349b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\button01\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\button01\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_f9fe4b84438e3434d6dfecb140540c43d277dd7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\button01\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\button01\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_aa168edb9b19ab9098a47942866055e4c70cb5f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\button01\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\button01\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_83058d9728dd967400ef08e48020855d44332aba.jar" />
+    </item>
+
+</items>

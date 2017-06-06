@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    tools:context="com.example.palmdigital.calculator01.MainActivity">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:layout_marginTop="20dp"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            app:srcCompat="@drawable/plus"
+            android:id="@+id/plus"
+            android:layout_weight="1" />
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/row3">
+
+            <ImageView
+                android:layout_marginTop="20dp"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                app:srcCompat="@drawable/equal"
+                android:id="@+id/equals" />
+
+            <Space
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <Space
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_marginTop="20dp"
+                android:text="0"
+                android:layout_width="80dp"
+                android:layout_height="70dp"
+                android:textSize="50dp"
+                android:id="@+id/numberInput3"
+                android:paddingLeft="20dp"/>
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/row2">
+
+            <ImageView
+                android:layout_marginTop="20dp"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                app:srcCompat="@drawable/four"
+                android:id="@+id/four" />
+
+            <ImageView
+                android:layout_marginTop="20dp"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                app:srcCompat="@drawable/five"
+                android:id="@+id/five"
+                android:layout_weight="0.21" />
+
+            <ImageView
+                android:layout_marginTop="20dp"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                app:srcCompat="@drawable/six"
+                android:id="@+id/six" />
+
+            <TextView
+                android:layout_marginTop="20dp"
+                android:text="0"
+                android:layout_width="80dp"
+                android:layout_height="70dp"
+                android:textSize="50dp"
+                android:id="@+id/numberInput2"
+                android:paddingLeft="20dp"/>
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/row1">
+
+            <ImageView
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                app:srcCompat="@drawable/one"
+                android:id="@+id/one" />
+
+            <ImageView
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                app:srcCompat="@drawable/two"
+                android:id="@+id/two"
+                android:layout_weight="0.21" />
+
+            <ImageView
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                app:srcCompat="@drawable/three"
+                android:id="@+id/three" />
+
+            <TextView
+                android:text="0"
+                android:layout_width="80dp"
+                android:layout_height="70dp"
+                android:textSize="50dp"
+                android:id="@+id/numberInput1"
+                android:paddingLeft="20dp"/>
+
+        </TableRow>
+    </LinearLayout>
+
+</LinearLayout>

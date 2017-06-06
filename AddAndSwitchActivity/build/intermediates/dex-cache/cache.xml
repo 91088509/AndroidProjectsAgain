@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\AddAndSwitchActivity\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\AddAndSwitchActivity\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_6d009f277736268afbab21df881aa4261a19b097.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\AddAndSwitchActivity\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="178a2a24d35776fa78018b6c1251a0f63fc96ae6">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\AddAndSwitchActivity\app\build\intermediates\pre-dexed\debug\instant-run_95e24a00b43a711ade4353c1f35efdefc1c252b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\AddAndSwitchActivity\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\AddAndSwitchActivity\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_70423ba1e82b0216875e23b7bdcf3e579eb1c9cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\AddAndSwitchActivity\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\AddAndSwitchActivity\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_6cd0ccdeb68ddae996bb2e82b92b790bec25c9c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\AddAndSwitchActivity\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\AddAndSwitchActivity\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_544766356a1e15ab5f7c776739fc8f9bcf262752.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\AddAndSwitchActivity\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6fb8f379dbbcf6cdf481a9d011596d5b32bb2cdd">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\AddAndSwitchActivity\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_9eb56a63348871074366d7002c469a13d51566e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\AddAndSwitchActivity\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\AddAndSwitchActivity\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_a40d1355df7807b6d2992e15976a61c482853049.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\AddAndSwitchActivity\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\AddAndSwitchActivity\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_17b8ab8fb616ae9cf82271cb10ed355576fa1701.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\AddAndSwitchActivity\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\AddAndSwitchActivity\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_5caa71f631edaed6c3a2a6781c72330addadb4d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\AddAndSwitchActivity\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\AddAndSwitchActivity\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_71bee595685f18e75d26e297f4ea4141a4a10cc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\AddAndSwitchActivity\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\AddAndSwitchActivity\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_791d8f0a76706a1c16a4cf50949a598acc0ea92e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\AddAndSwitchActivity\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_92b78aa75e18988c5d52248e429ee6fb1d5ad1d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\AddAndSwitchActivity\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\AddAndSwitchActivity\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_0d41fa8036069ed870c1490e7b38041a7e951ab7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\AddAndSwitchActivity\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\AddAndSwitchActivity\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_e2167eba64d9ea94c2eff15eeae238843279acb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\AddAndSwitchActivity\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\AddAndSwitchActivity\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_e265f31412516af10b4e9bce26a459b423fd5af6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\AddAndSwitchActivity\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\AddAndSwitchActivity\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_a6190e449fbe791385f3cd7e90e368f7f36030eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\AddAndSwitchActivity\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\AddAndSwitchActivity\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_6bcda38f6799cc0e8e9022ef5ff69badcb8a7ecd.jar" />
+    </item>
+
+</items>

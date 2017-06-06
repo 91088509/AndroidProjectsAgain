@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\simpleCalcv4\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\simpleCalcv4\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_9e8079e795b050e6c4465bf5522642ca69a399f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\simpleCalcv4\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\simpleCalcv4\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_bc40e679a1d253d49e843d62c15f8fe45752e3f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\simpleCalcv4\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\simpleCalcv4\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_dba550d390cb91fa7f51487f59bd2b3e3887ca2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\simpleCalcv4\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\simpleCalcv4\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_add0d2adda6bdf9ee85412ad7dca2b30720fe5ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\simpleCalcv4\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\simpleCalcv4\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_0ee58cf6cdf612e3edf07a1a0aedac4137c2dd93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\simpleCalcv4\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\simpleCalcv4\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_82de243c7cf86895b2b0044fc6f6be30a2f52790.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\simpleCalcv4\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\simpleCalcv4\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_455b0d5bbc2d668491202ab5201261d0a039610b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\simpleCalcv4\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ccdd3bb0caae5f15405caa8c317c4f30f1893d9d">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\simpleCalcv4\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_c1c1167ced184a96f5ce4f9c095ecfbda78e25bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\simpleCalcv4\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\simpleCalcv4\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_7a231cc0b934d68baf2185e6c1346ebbbba9aff5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\simpleCalcv4\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\simpleCalcv4\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_b2cfcc58a5da8715928fc000f38b6f7bcb57db8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\simpleCalcv4\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\simpleCalcv4\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_2650bd2715679a899e4a87611c87f59219206983.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\simpleCalcv4\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="366b83081414fc66b87dd6914061dfe64d5aad79">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\simpleCalcv4\app\build\intermediates\pre-dexed\debug\instant-run_b69bf7bd77583c44688fe024bc061ea6cbfb5e19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\simpleCalcv4\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\simpleCalcv4\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_7d60fe302f5498957bbf03d74ab7c75b957de2ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\simpleCalcv4\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\simpleCalcv4\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_0db8c1fa984cd4bd68ad6675ba25d65e39bf1d47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\simpleCalcv4\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_92b78aa75e18988c5d52248e429ee6fb1d5ad1d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\simpleCalcv4\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\simpleCalcv4\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_bc0ff06f166b1279f4a78d74579d5c0e77a233b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\simpleCalcv4\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\simpleCalcv4\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_e8f1c9b10fc66c2233fc9741a6278fc5d71336b4.jar" />
+    </item>
+
+</items>

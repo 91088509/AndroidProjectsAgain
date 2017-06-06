@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\Toast_Practice02\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\Toast_Practice02\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_51e7c0094712bb7bf4bb772b2cfc6e9d72f86500.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\Toast_Practice02\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\Toast_Practice02\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_9e5de618b03a9dc1e3f0406c545964120f7936d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\Toast_Practice02\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\Toast_Practice02\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_2980a621c5f4e6b4781c98f510ad5a0dd5b896d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\Toast_Practice02\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\Toast_Practice02\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_f589d881d05f2518aa99a95cec54436e526a5e50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\Toast_Practice02\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\Toast_Practice02\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_a44a4832350e18e8ba0243403aaa530ac2156fd3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\Toast_Practice02\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\Toast_Practice02\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_01730b8b13ec686f81bfcc75be9c710a0666851d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\Toast_Practice02\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\Toast_Practice02\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_42fdf86a74f87682dc5234bc3fe9410882eb378c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\Toast_Practice02\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\Toast_Practice02\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_131667bfbf505e0dbf052b069b4b715c85296555.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\Toast_Practice02\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\Toast_Practice02\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_23b70579ef6cbefc4f114fe72d9910847d47ea42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\Toast_Practice02\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="81e06d45410f0744f92cd67d30dfc0e448437385">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\Toast_Practice02\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_48fdce112c3f09feebac9e6c604f4ff1abd0dbe1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\Toast_Practice02\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\Toast_Practice02\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_2c0103424684a550cacef3a3f0f5b01e9db1344a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\Toast_Practice02\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\Toast_Practice02\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_ed02a8b9a2d913d47de6d256339599eeda309b3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\Toast_Practice02\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_92b78aa75e18988c5d52248e429ee6fb1d5ad1d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\Toast_Practice02\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\Toast_Practice02\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_e0f041c93bdb6fe74af9eb4e8e1b43ba549f528a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\Toast_Practice02\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\Toast_Practice02\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_6b2dea51fa7c40bd46c3fb68aff34dcf69002e28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\Toast_Practice02\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\Toast_Practice02\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_76aefb8191d90dec286873ee582eb80b4dcd272c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\palmdigital\AndroidStudioProjects\Toast_Practice02\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="decc8d92baf7f776a8267d9ba2c0c96d047ebd88">
+        <dex dex="C:\Users\palmdigital\AndroidStudioProjects\Toast_Practice02\app\build\intermediates\pre-dexed\debug\instant-run_81e64dec21365063511449ab05058052c1663e27.jar" />
+    </item>
+
+</items>
